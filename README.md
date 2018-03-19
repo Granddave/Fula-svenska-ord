@@ -230,3 +230,5 @@ Lappa
 Komplott
 
 Spjuver
+
+Floskel
