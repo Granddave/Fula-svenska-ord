@@ -240,3 +240,5 @@ Dassig
 Grabb
 
 Vajsing
+
+Bänk
