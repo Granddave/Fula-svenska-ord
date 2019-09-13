@@ -242,3 +242,5 @@ Grabb
 Vajsing
 
 Bänk
+
+Junta
