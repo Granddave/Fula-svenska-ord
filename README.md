@@ -244,3 +244,5 @@ Vajsing
 Bänk
 
 Junta
+
+Kabyss
